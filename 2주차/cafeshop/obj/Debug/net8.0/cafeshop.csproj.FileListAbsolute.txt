@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Project_c-\2주차\cafeshop\obj\Debug\net8.0\cafeshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Project_c-\2주차\cafeshop\obj\Debug\net8.0\cafeshop.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Project_c-\2주차\cafeshop\obj\Debug\net8.0\cafeshop.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Project_c-\2주차\cafeshop\obj\Debug\net8.0\cafeshop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Project_c-\2주차\cafeshop\obj\Debug\net8.0\cafeshop.sourcelink.json
+C:\Users\Administrator\Desktop\Project_c-\2주차\cafeshop\bin\Debug\net8.0\cafeshop.exe
+C:\Users\Administrator\Desktop\Project_c-\2주차\cafeshop\bin\Debug\net8.0\cafeshop.deps.json
+C:\Users\Administrator\Desktop\Project_c-\2주차\cafeshop\bin\Debug\net8.0\cafeshop.runtimeconfig.json
+C:\Users\Administrator\Desktop\Project_c-\2주차\cafeshop\bin\Debug\net8.0\cafeshop.dll
+C:\Users\Administrator\Desktop\Project_c-\2주차\cafeshop\bin\Debug\net8.0\cafeshop.pdb
+C:\Users\Administrator\Desktop\Project_c-\2주차\cafeshop\obj\Debug\net8.0\cafeshop.dll
+C:\Users\Administrator\Desktop\Project_c-\2주차\cafeshop\obj\Debug\net8.0\refint\cafeshop.dll
+C:\Users\Administrator\Desktop\Project_c-\2주차\cafeshop\obj\Debug\net8.0\cafeshop.pdb
+C:\Users\Administrator\Desktop\Project_c-\2주차\cafeshop\obj\Debug\net8.0\cafeshop.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Project_c-\2주차\cafeshop\obj\Debug\net8.0\ref\cafeshop.dll

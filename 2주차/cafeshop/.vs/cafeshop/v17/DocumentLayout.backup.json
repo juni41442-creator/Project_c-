@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Project_c-\\2\uC8FC\uCC28\\cafeshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA156-34FE-448B-A0A4-AE73B5D2FA40}|cafeshop.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\cafeshop\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA156-34FE-448B-A0A4-AE73B5D2FA40}|cafeshop.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA156-34FE-448B-A0A4-AE73B5D2FA40}|cafeshop.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\cafeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA156-34FE-448B-A0A4-AE73B5D2FA40}|cafeshop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA156-34FE-448B-A0A4-AE73B5D2FA40}|cafeshop.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\cafeshop\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA156-34FE-448B-A0A4-AE73B5D2FA40}|cafeshop.csproj|solutionrelative:coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA156-34FE-448B-A0A4-AE73B5D2FA40}|cafeshop.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\cafeshop\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA156-34FE-448B-A0A4-AE73B5D2FA40}|cafeshop.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA156-34FE-448B-A0A4-AE73B5D2FA40}|cafeshop.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\cafeshop\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA156-34FE-448B-A0A4-AE73B5D2FA40}|cafeshop.csproj|solutionrelative:goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA156-34FE-448B-A0A4-AE73B5D2FA40}|cafeshop.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\cafeshop\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA156-34FE-448B-A0A4-AE73B5D2FA40}|cafeshop.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA156-34FE-448B-A0A4-AE73B5D2FA40}|cafeshop.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\cafeshop\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA156-34FE-448B-A0A4-AE73B5D2FA40}|cafeshop.csproj|solutionrelative:store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA156-34FE-448B-A0A4-AE73B5D2FA40}|cafeshop.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\cafeshop\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA156-34FE-448B-A0A4-AE73B5D2FA40}|cafeshop.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_c-\\2\uC8FC\uCC28\\cafeshop\\Goal.cs",
+              "RelativeDocumentMoniker": "Goal.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_c-\\2\uC8FC\uCC28\\cafeshop\\Goal.cs",
+              "RelativeToolTip": "Goal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:40:55.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_c-\\2\uC8FC\uCC28\\cafeshop\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_c-\\2\uC8FC\uCC28\\cafeshop\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:42:20.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_c-\\2\uC8FC\uCC28\\cafeshop\\Coin.cs",
+              "RelativeDocumentMoniker": "Coin.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_c-\\2\uC8FC\uCC28\\cafeshop\\Coin.cs",
+              "RelativeToolTip": "Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T07:37:20.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_c-\\2\uC8FC\uCC28\\cafeshop\\GameManager.cs",
+              "RelativeDocumentMoniker": "GameManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_c-\\2\uC8FC\uCC28\\cafeshop\\GameManager.cs*",
+              "RelativeToolTip": "GameManager.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:58:47.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_c-\\2\uC8FC\uCC28\\cafeshop\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_c-\\2\uC8FC\uCC28\\cafeshop\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:40:13.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_c-\\2\uC8FC\uCC28\\cafeshop\\Store.cs",
+              "RelativeDocumentMoniker": "Store.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_c-\\2\uC8FC\uCC28\\cafeshop\\Store.cs",
+              "RelativeToolTip": "Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:39:38.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_c-\\2\uC8FC\uCC28\\cafeshop\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_c-\\2\uC8FC\uCC28\\cafeshop\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:38:24.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_c-\\2\uC8FC\uCC28\\cafeshop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_c-\\2\uC8FC\uCC28\\cafeshop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:25:31.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1564,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

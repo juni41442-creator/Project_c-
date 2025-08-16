@@ -7,7 +7,7 @@ using System.Threading;
 class Program
 {
     // 게임판 크기
-    const int Width = 30;
+    const int Width = 100;
     const int Height = 40;
 
     // 게임 상태

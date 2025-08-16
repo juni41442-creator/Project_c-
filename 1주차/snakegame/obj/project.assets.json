@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity1_C_Cpp\\코딩테스트\\CodingTestC\\snakegame\\snakegame.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Project_c-\\1주차\\snakegame\\snakegame.csproj",
       "projectName": "snakegame",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity1_C_Cpp\\코딩테스트\\CodingTestC\\snakegame\\snakegame.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Project_c-\\1주차\\snakegame\\snakegame.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\Unity1_C_Cpp\\코딩테스트\\CodingTestC\\snakegame\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\Project_c-\\1주차\\snakegame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
